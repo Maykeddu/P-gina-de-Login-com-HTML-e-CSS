@@ -1,0 +1,1 @@
+Nesse projeto foi onde eu pude colocar o meu primeiro código em prática, usado apenas o HTML e CSS.
